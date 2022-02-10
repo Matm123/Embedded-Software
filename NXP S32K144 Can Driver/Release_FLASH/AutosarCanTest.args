@@ -1,0 +1,19 @@
+-T
+"C:/Users/Progr/Desktop/New folder (4)/3/AutosarCanTest_V1.2/Project_Settings/Linker_Files/S32K144_64_flash.ld"
+-Wl,-Map,"AutosarCanTest.map"
+-Xlinker
+--gc-sections
+-n
+-mcpu=cortex-m4
+-specs=nosys.specs
+--sysroot="F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib"
+"./Project_Settings/Startup_Code/startup.o"
+"./Project_Settings/Startup_Code/startup_S32K144.o"
+"./Project_Settings/Startup_Code/system_S32K144.o"
+"./src/ADC.o"
+"./src/Can.o"
+"./src/Can_PBcfg.o"
+"./src/Det.o"
+"./src/LPUART.o"
+"./src/clocks_and_modes.o"
+"./src/main.o"

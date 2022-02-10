@@ -1,0 +1,1048 @@
+Archive member included to satisfy reference by file (symbol)
+
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o (exit)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o (__libc_init_array)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o (memset)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o) (atexit)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)
+                              F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+IFLAG1_Reg          0x4               ./src/Can.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+ .data          0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+ .bss           0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+ .data          0x00000000        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rodata.s_vectors
+                0x00000000        0x4 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .FlashConfig   0x00000000       0x10 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xf0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemSoftwareReset
+                0x00000000       0x3e ./Project_Settings/Startup_Code/system_S32K144.o
+ .rodata.fircFreq.5176
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x8d4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x7a ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x87 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x51 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0xef ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x6a ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x1df ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0xb86 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/ADC.o
+ .text          0x00000000        0x0 ./src/ADC.o
+ .data          0x00000000        0x0 ./src/ADC.o
+ .bss           0x00000000        0x0 ./src/ADC.o
+ .text.ADC_init_HWTrigger
+                0x00000000       0x88 ./src/ADC.o
+ .debug_macro   0x00000000      0x8d4 ./src/ADC.o
+ .debug_macro   0x00000000       0x10 ./src/ADC.o
+ .debug_macro   0x00000000       0x7a ./src/ADC.o
+ .debug_macro   0x00000000       0x19 ./src/ADC.o
+ .debug_macro   0x00000000       0x22 ./src/ADC.o
+ .debug_macro   0x00000000       0x87 ./src/ADC.o
+ .debug_macro   0x00000000       0x51 ./src/ADC.o
+ .debug_macro   0x00000000       0xef ./src/ADC.o
+ .debug_macro   0x00000000       0x6a ./src/ADC.o
+ .debug_macro   0x00000000      0x1df ./src/ADC.o
+ .debug_macro   0x00000000     0xed1d ./src/ADC.o
+ .debug_macro   0x00000000      0xb86 ./src/ADC.o
+ .debug_macro   0x00000000       0x22 ./src/ADC.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can.o
+ .text          0x00000000        0x0 ./src/Can.o
+ .data          0x00000000        0x0 ./src/Can.o
+ .bss           0x00000000        0x0 ./src/Can.o
+ .bss.UART_Data
+                0x00000000        0x4 ./src/Can.o
+ .bss.UART_Ptr  0x00000000        0x4 ./src/Can.o
+ .text.Can_GetVersionInfo
+                0x00000000       0x40 ./src/Can.o
+ .text.Can_DeInit
+                0x00000000       0x98 ./src/Can.o
+ .text.Can_GetControllerErrorState
+                0x00000000       0x90 ./src/Can.o
+ .text.Can_GetControllerMode
+                0x00000000       0x6c ./src/Can.o
+ .debug_macro   0x00000000      0x8d4 ./src/Can.o
+ COMMON         0x00000000        0x4 ./src/Can.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Can_PBcfg.o
+ .text          0x00000000        0x0 ./src/Can_PBcfg.o
+ .data          0x00000000        0x0 ./src/Can_PBcfg.o
+ .bss           0x00000000        0x0 ./src/Can_PBcfg.o
+ .debug_macro   0x00000000      0x8d4 ./src/Can_PBcfg.o
+ .debug_macro   0x00000000       0x88 ./src/Can_PBcfg.o
+ .debug_macro   0x00000000       0x70 ./src/Can_PBcfg.o
+ .debug_macro   0x00000000       0x2e ./src/Can_PBcfg.o
+ .group         0x00000000        0x8 ./src/Det.o
+ .group         0x00000000        0x8 ./src/Det.o
+ .group         0x00000000        0x8 ./src/Det.o
+ .group         0x00000000        0x8 ./src/Det.o
+ .text          0x00000000        0x0 ./src/Det.o
+ .data          0x00000000        0x0 ./src/Det.o
+ .bss           0x00000000        0x0 ./src/Det.o
+ .debug_macro   0x00000000      0x8d4 ./src/Det.o
+ .debug_macro   0x00000000       0x88 ./src/Det.o
+ .debug_macro   0x00000000       0x70 ./src/Det.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/LPUART.o
+ .text          0x00000000        0x0 ./src/LPUART.o
+ .data          0x00000000        0x0 ./src/LPUART.o
+ .bss           0x00000000        0x0 ./src/LPUART.o
+ .text.LPUART1_transmit_string
+                0x00000000       0x36 ./src/LPUART.o
+ .text.LPUART1_receive_char
+                0x00000000       0x2c ./src/LPUART.o
+ .text.LPUART1_receive_and_echo_char
+                0x00000000       0x2a ./src/LPUART.o
+ .debug_macro   0x00000000      0x8d4 ./src/LPUART.o
+ .debug_macro   0x00000000       0x10 ./src/LPUART.o
+ .debug_macro   0x00000000       0x7a ./src/LPUART.o
+ .debug_macro   0x00000000       0x19 ./src/LPUART.o
+ .debug_macro   0x00000000       0x22 ./src/LPUART.o
+ .debug_macro   0x00000000       0x87 ./src/LPUART.o
+ .debug_macro   0x00000000       0x51 ./src/LPUART.o
+ .debug_macro   0x00000000       0xef ./src/LPUART.o
+ .debug_macro   0x00000000       0x6a ./src/LPUART.o
+ .debug_macro   0x00000000      0x1df ./src/LPUART.o
+ .debug_macro   0x00000000     0xed1d ./src/LPUART.o
+ .debug_macro   0x00000000      0xb86 ./src/LPUART.o
+ .debug_macro   0x00000000       0x22 ./src/LPUART.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/clocks_and_modes.o
+ .text          0x00000000        0x0 ./src/clocks_and_modes.o
+ .data          0x00000000        0x0 ./src/clocks_and_modes.o
+ .bss           0x00000000        0x0 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0x8d4 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x10 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x7a ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x19 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x22 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x87 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x51 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0xef ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x6a ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0x1df ./src/clocks_and_modes.o
+ .debug_macro   0x00000000     0xed1d ./src/clocks_and_modes.o
+ .debug_macro   0x00000000      0xb86 ./src/clocks_and_modes.o
+ .debug_macro   0x00000000       0x22 ./src/clocks_and_modes.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x8d4 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x7a ./src/main.o
+ .debug_macro   0x00000000       0x19 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x87 ./src/main.o
+ .debug_macro   0x00000000       0x51 ./src/main.o
+ .debug_macro   0x00000000       0xef ./src/main.o
+ .debug_macro   0x00000000       0x6a ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
+ .debug_macro   0x00000000     0xed1d ./src/main.o
+ .debug_macro   0x00000000      0xb86 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x88 ./src/main.o
+ .debug_macro   0x00000000       0x70 ./src/main.o
+ .debug_macro   0x00000000       0x2e ./src/main.o
+ .debug_macro   0x00000000       0x34 ./src/main.o
+ .debug_macro   0x00000000       0x3a ./src/main.o
+ .debug_macro   0x00000000      0x10c ./src/main.o
+ .debug_macro   0x00000000       0x3a ./src/main.o
+ .debug_macro   0x00000000      0x1ae ./src/main.o
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+ .data          0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+ .bss           0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+ .eh_frame      0x00000000        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+ .text          0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+ .data          0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+ .bss           0x00000000        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x1fff8000         0x00000400         xr
+m_text           0x1fff8400         0x00007c00         xr
+m_data           0x20000000         0x00007000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+LOAD f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+LOAD F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K144.o
+LOAD ./Project_Settings/Startup_Code/system_S32K144.o
+LOAD ./src/ADC.o
+LOAD ./src/Can.o
+LOAD ./src/Can_PBcfg.o
+LOAD ./src/Det.o
+LOAD ./src/LPUART.o
+LOAD ./src/clocks_and_modes.o
+LOAD ./src/main.o
+START GROUP
+LOAD f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a
+LOAD F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a
+END GROUP
+START GROUP
+LOAD f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a
+LOAD F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a
+LOAD F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a
+END GROUP
+LOAD f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+LOAD f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x1fff8000      0x400
+                0x1fff8000                __VECTOR_TABLE = .
+                0x1fff8000                __interrupts_start__ = .
+                0x1fff8000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x1fff8000      0x400 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x1fff8000                __isr_vector
+                0x1fff8400                __interrupts_end__ = .
+                0x1fff8400                . = ALIGN (0x4)
+                0x1fff8000                __VECTOR_RAM = __VECTOR_TABLE
+                0x00000000                __RAM_VECTOR_TABLE_SIZE = 0x0
+
+.text           0x1fff8400     0x1ac4
+                0x1fff8400                . = ALIGN (0x4)
+ *(.text)
+ .text          0x1fff8400       0xa4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .text          0x1fff84a4       0x74 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+                0x1fff84a4                _start
+                0x1fff84a4                _mainCRTStartup
+ .text          0x1fff8518       0x4c ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x1fff8518                Reset_Handler
+                0x1fff8560                DebugMon_Handler
+                0x1fff8560                Reserved88_IRQHandler
+                0x1fff8560                CAN0_ORed_IRQHandler
+                0x1fff8560                HardFault_Handler
+                0x1fff8560                Reserved86_IRQHandler
+                0x1fff8560                Reserved103_IRQHandler
+                0x1fff8560                SysTick_Handler
+                0x1fff8560                FTM2_Ovf_Reload_IRQHandler
+                0x1fff8560                Reserved50_IRQHandler
+                0x1fff8560                FTFC_Fault_IRQHandler
+                0x1fff8560                FTM0_Ch6_Ch7_IRQHandler
+                0x1fff8560                Reserved114_IRQHandler
+                0x1fff8560                PendSV_Handler
+                0x1fff8560                NMI_Handler
+                0x1fff8560                Reserved89_IRQHandler
+                0x1fff8560                ERM_double_fault_IRQHandler
+                0x1fff8560                DMA2_IRQHandler
+                0x1fff8560                Reserved59_IRQHandler
+                0x1fff8560                LPIT0_Ch0_IRQHandler
+                0x1fff8560                Reserved99_IRQHandler
+                0x1fff8560                FTM3_Ch6_Ch7_IRQHandler
+                0x1fff8560                CAN2_ORed_0_15_MB_IRQHandler
+                0x1fff8560                LPIT0_Ch3_IRQHandler
+                0x1fff8560                Reserved92_IRQHandler
+                0x1fff8560                FTM0_Ch4_Ch5_IRQHandler
+                0x1fff8560                CAN1_Error_IRQHandler
+                0x1fff8560                FTM3_Ch0_Ch1_IRQHandler
+                0x1fff8560                SWI_IRQHandler
+                0x1fff8560                ADC0_IRQHandler
+                0x1fff8560                FTM2_Ch4_Ch5_IRQHandler
+                0x1fff8560                UsageFault_Handler
+                0x1fff8560                FTM0_Ovf_Reload_IRQHandler
+                0x1fff8560                DefaultISR
+                0x1fff8560                DMA9_IRQHandler
+                0x1fff8560                Reserved58_IRQHandler
+                0x1fff8560                CAN1_ORed_0_15_MB_IRQHandler
+                0x1fff8560                FTM1_Ch2_Ch3_IRQHandler
+                0x1fff8560                DMA14_IRQHandler
+                0x1fff8560                Reserved82_IRQHandler
+                0x1fff8560                CAN0_ORed_16_31_MB_IRQHandler
+                0x1fff8560                LPI2C0_Slave_IRQHandler
+                0x1fff8560                Reserved71_IRQHandler
+                0x1fff8560                PORTD_IRQHandler
+                0x1fff8560                Reserved69_IRQHandler
+                0x1fff8560                PORTB_IRQHandler
+                0x1fff8560                Reserved70_IRQHandler
+                0x1fff8560                ADC1_IRQHandler
+                0x1fff8560                FTM2_Ch2_Ch3_IRQHandler
+                0x1fff8560                Reserved53_IRQHandler
+                0x1fff8560                DMA5_IRQHandler
+                0x1fff8560                RTC_IRQHandler
+                0x1fff8560                PDB0_IRQHandler
+                0x1fff8560                Reserved54_IRQHandler
+                0x1fff8560                FTM2_Ch6_Ch7_IRQHandler
+                0x1fff8560                FTM3_Ch2_Ch3_IRQHandler
+                0x1fff8560                FTM2_Ch0_Ch1_IRQHandler
+                0x1fff8560                LPSPI1_IRQHandler
+                0x1fff8560                LPUART1_RxTx_IRQHandler
+                0x1fff8560                RTC_Seconds_IRQHandler
+                0x1fff8560                CAN2_ORed_IRQHandler
+                0x1fff8560                Reserved72_IRQHandler
+                0x1fff8560                Reserved110_IRQHandler
+                0x1fff8560                DMA11_IRQHandler
+                0x1fff8560                Reserved107_IRQHandler
+                0x1fff8560                Read_Collision_IRQHandler
+                0x1fff8560                CAN2_Error_IRQHandler
+                0x1fff8560                FTFC_IRQHandler
+                0x1fff8560                DMA7_IRQHandler
+                0x1fff8560                FTM1_Ch6_Ch7_IRQHandler
+                0x1fff8560                Reserved105_IRQHandler
+                0x1fff8560                LPIT0_Ch1_IRQHandler
+                0x1fff8560                FTM1_Ch4_Ch5_IRQHandler
+                0x1fff8560                FTM3_Ovf_Reload_IRQHandler
+                0x1fff8560                LPUART2_RxTx_IRQHandler
+                0x1fff8560                LPSPI0_IRQHandler
+                0x1fff8560                WDOG_EWM_IRQHandler
+                0x1fff8560                MemManage_Handler
+                0x1fff8560                Reserved90_IRQHandler
+                0x1fff8560                Reserved83_IRQHandler
+                0x1fff8560                FTM0_Fault_IRQHandler
+                0x1fff8560                Reserved48_IRQHandler
+                0x1fff8560                SVC_Handler
+                0x1fff8560                ERM_single_fault_IRQHandler
+                0x1fff8560                FTM2_Fault_IRQHandler
+                0x1fff8560                FTM0_Ch2_Ch3_IRQHandler
+                0x1fff8560                DMA13_IRQHandler
+                0x1fff8560                FTM0_Ch0_Ch1_IRQHandler
+                0x1fff8560                FTM3_Fault_IRQHandler
+                0x1fff8560                RCM_IRQHandler
+                0x1fff8560                DMA3_IRQHandler
+                0x1fff8560                Reserved100_IRQHandler
+                0x1fff8560                DMA0_IRQHandler
+                0x1fff8560                Reserved91_IRQHandler
+                0x1fff8560                CAN1_ORed_IRQHandler
+                0x1fff8560                DMA15_IRQHandler
+                0x1fff8560                SCG_IRQHandler
+                0x1fff8560                PDB1_IRQHandler
+                0x1fff8560                Reserved81_IRQHandler
+                0x1fff8560                Reserved46_IRQHandler
+                0x1fff8560                Reserved45_IRQHandler
+                0x1fff8560                CAN0_Error_IRQHandler
+                0x1fff8560                Reserved112_IRQHandler
+                0x1fff8560                LPI2C0_Master_IRQHandler
+                0x1fff8560                DMA4_IRQHandler
+                0x1fff8560                FTM1_Fault_IRQHandler
+                0x1fff8560                Reserved106_IRQHandler
+                0x1fff8560                DMA_Error_IRQHandler
+                0x1fff8560                LVD_LVW_IRQHandler
+                0x1fff8560                LPIT0_Ch2_IRQHandler
+                0x1fff8560                PORTA_IRQHandler
+                0x1fff8560                MCM_IRQHandler
+                0x1fff8560                LPSPI2_IRQHandler
+                0x1fff8560                DMA12_IRQHandler
+                0x1fff8560                FTM3_Ch4_Ch5_IRQHandler
+                0x1fff8560                PORTE_IRQHandler
+                0x1fff8560                LPUART0_RxTx_IRQHandler
+                0x1fff8560                LPTMR0_IRQHandler
+                0x1fff8560                BusFault_Handler
+                0x1fff8560                Reserved87_IRQHandler
+                0x1fff8560                FTM1_Ovf_Reload_IRQHandler
+                0x1fff8560                DMA8_IRQHandler
+                0x1fff8560                Reserved93_IRQHandler
+                0x1fff8560                DMA10_IRQHandler
+                0x1fff8560                CAN0_Wake_Up_IRQHandler
+                0x1fff8560                CMP0_IRQHandler
+                0x1fff8560                Reserved52_IRQHandler
+                0x1fff8560                PORTC_IRQHandler
+                0x1fff8560                DMA6_IRQHandler
+                0x1fff8560                FTM1_Ch0_Ch1_IRQHandler
+                0x1fff8560                FLEXIO_IRQHandler
+                0x1fff8560                DMA1_IRQHandler
+                0x1fff8560                Reserved113_IRQHandler
+ *(.text*)
+ .text.init_data_bss
+                0x1fff8564      0x128 ./Project_Settings/Startup_Code/startup.o
+                0x1fff8564                init_data_bss
+ .text.SystemInit
+                0x1fff868c       0x30 ./Project_Settings/Startup_Code/system_S32K144.o
+                0x1fff868c                SystemInit
+ .text.ADC_init
+                0x1fff86bc       0x74 ./src/ADC.o
+                0x1fff86bc                ADC_init
+ .text.convertAdcChan
+                0x1fff8730       0x30 ./src/ADC.o
+                0x1fff8730                convertAdcChan
+ .text.adc_complete
+                0x1fff8760       0x20 ./src/ADC.o
+                0x1fff8760                adc_complete
+ .text.read_adc_chx
+                0x1fff8780       0x3c ./src/ADC.o
+                0x1fff8780                read_adc_chx
+ .text.Can_Init
+                0x1fff87bc      0x604 ./src/Can.o
+                0x1fff87bc                Can_Init
+ .text.Can_DisableControllerInterrupts
+                0x1fff8dc0       0xb0 ./src/Can.o
+                0x1fff8dc0                Can_DisableControllerInterrupts
+ .text.Can_EnableControllerInterrupts
+                0x1fff8e70       0xc0 ./src/Can.o
+                0x1fff8e70                Can_EnableControllerInterrupts
+ .text.Can_SetControllerMode
+                0x1fff8f30      0x5f0 ./src/Can.o
+                0x1fff8f30                Can_SetControllerMode
+ .text.Can_Write
+                0x1fff9520      0x1a0 ./src/Can.o
+                0x1fff9520                Can_Write
+ .text.CAN0_ORed_0_15_MB_IRQHandler
+                0x1fff96c0      0x1c8 ./src/Can.o
+                0x1fff96c0                CAN0_ORed_0_15_MB_IRQHandler
+ .text.FlexCan1_ISR
+                0x1fff9888       0x5c ./src/Can.o
+                0x1fff9888                FlexCan1_ISR
+ .text.FlexCan2_ISR
+                0x1fff98e4       0x5c ./src/Can.o
+                0x1fff98e4                FlexCan2_ISR
+ .text.Det_ReportError
+                0x1fff9940       0x2a ./src/Det.o
+                0x1fff9940                Det_ReportError
+ *fill*         0x1fff996a        0x2 
+ .text.LPUART1_init
+                0x1fff996c       0x48 ./src/LPUART.o
+                0x1fff996c                LPUART1_init
+ .text.LPUART1_transmit_char
+                0x1fff99b4       0x2c ./src/LPUART.o
+                0x1fff99b4                LPUART1_transmit_char
+ .text.SOSC_init_8MHz
+                0x1fff99e0       0x4c ./src/clocks_and_modes.o
+                0x1fff99e0                SOSC_init_8MHz
+ .text.SPLL_init_160MHz
+                0x1fff9a2c       0x80 ./src/clocks_and_modes.o
+                0x1fff9a2c                SPLL_init_160MHz
+ .text.NormalRUNmode_80MHz
+                0x1fff9aac       0x34 ./src/clocks_and_modes.o
+                0x1fff9aac                NormalRUNmode_80MHz
+ .text.WDOG_disable
+                0x1fff9ae0       0x2c ./src/main.o
+                0x1fff9ae0                WDOG_disable
+ .text.PORT_init
+                0x1fff9b0c       0xc8 ./src/main.o
+                0x1fff9b0c                PORT_init
+ .text.NVIC_init_IRQs
+                0x1fff9bd4       0x2c ./src/main.o
+                0x1fff9bd4                NVIC_init_IRQs
+ .text.main     0x1fff9c00       0x84 ./src/main.o
+                0x1fff9c00                main
+ .text.exit     0x1fff9c84       0x20 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+                0x1fff9c84                exit
+ .text.__libc_init_array
+                0x1fff9ca4       0x48 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+                0x1fff9ca4                __libc_init_array
+ .text.memset   0x1fff9cec       0x10 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+                0x1fff9cec                memset
+ .text.startup.register_fini
+                0x1fff9cfc       0x14 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x1fff9d10       0xc8 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+                0x1fff9d10                __call_exitprocs
+ .text.__libc_fini_array
+                0x1fff9dd8       0x28 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+                0x1fff9dd8                __libc_fini_array
+ .text.atexit   0x1fff9e00        0xc F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+                0x1fff9e00                atexit
+ .text.__register_exitproc
+                0x1fff9e0c       0x98 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+                0x1fff9e0c                __register_exitproc
+ .text._exit    0x1fff9ea4        0x2 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)
+                0x1fff9ea4                _exit
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x1fff9ea6        0x2 
+ .rodata._global_impure_ptr
+                0x1fff9ea8        0x4 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+                0x1fff9ea8                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x1fff9eac        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x1fff9eac        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x1fff9eac        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ *(.init)
+ .init          0x1fff9eac        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+                0x1fff9eac                _init
+ .init          0x1fff9eb0        0x8 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+ *(.fini)
+ .fini          0x1fff9eb8        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+                0x1fff9eb8                _fini
+ .fini          0x1fff9ebc        0x8 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x1fff9ec4                . = ALIGN (0x4)
+
+.vfp11_veneer   0x1fff9ec4        0x0
+ .vfp11_veneer  0x1fff9ec4        0x0 linker stubs
+
+.v4_bx          0x1fff9ec4        0x0
+ .v4_bx         0x1fff9ec4        0x0 linker stubs
+
+.iplt           0x1fff9ec4        0x0
+ .iplt          0x1fff9ec4        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+
+.code_ram       0x1fff9ec4        0x0
+                0x1fff9ec4                . = ALIGN (0x4)
+                0x1fff9ec4                __CODE_RAM = .
+                0x1fff9ec4                __code_ram_start__ = .
+ *(.code_ram)
+                0x1fff9ec4                __CODE_ROM = .
+                0x1fff9ec4                __CODE_END = .
+                0x1fff9ec4                __code_ram_end__ = .
+                0x1fff9ec4                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x1fff9ec4        0x8
+                0x1fff9ec4                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x1fff9ec4        0x8 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+                0x1fff9ecc                __exidx_end = .
+
+.rel.dyn        0x1fff9ecc        0x0
+ .rel.iplt      0x1fff9ecc        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+
+.ctors          0x1fff9ecc        0x0
+                0x1fff9ecc                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x1fff9ecc                __CTOR_END__ = .
+
+.dtors          0x1fff9ecc        0x0
+                0x1fff9ecc                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x1fff9ecc                __DTOR_END__ = .
+
+.preinit_array  0x1fff9ecc        0x0
+                0x1fff9ecc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x1fff9ecc                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x1fff9ecc        0x8
+                0x1fff9ecc                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x1fff9ecc        0x4 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x1fff9ed0        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+                0x1fff9ed4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x1fff9ed4        0x4
+                0x1fff9ed4                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x1fff9ed4        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+                0x1fff9ed8                PROVIDE (__fini_array_end, .)
+                0x1fff9ed8                __etext = .
+                0x1fff9ed8                __DATA_ROM = .
+                0x1fff9ed8                __DATA_END = __DATA_ROM
+
+.customSectionBlock
+                0x20000000        0x0
+                0x20000000                __customSection_start__ = .
+ *(.customSection)
+                0x20000000                __customSection_end__ = .
+                0x20000000                __CUSTOM_ROM = .
+                0x20000000                __CUSTOM_END = .
+
+.data           0x20000000      0x4cc
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __DATA_RAM = .
+                0x20000000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.CAN_BASE_ADDRESSES
+                0x20000000        0xc ./src/Can.o
+ .data.PCC_CAN_OFFSETS
+                0x2000000c        0xc ./src/Can.o
+ .data.TotalNumOfBuffers
+                0x20000018        0x3 ./src/Can.o
+ *fill*         0x2000001b        0x1 
+ .data.MAXMB    0x2000001c        0x3 ./src/Can.o
+ *fill*         0x2000001f        0x1 
+ .data.NumOfIntDis
+                0x20000020        0x3 ./src/Can.o
+ *fill*         0x20000023        0x1 
+ .data.CanControllerBaudrateConfig_arr
+                0x20000024       0x18 ./src/Can_PBcfg.o
+                0x20000024                CanControllerBaudrateConfig_arr
+ .data.CanController_arr
+                0x2000003c       0x30 ./src/Can_PBcfg.o
+                0x2000003c                CanController_arr
+ .data.CanHwFilterHRH
+                0x2000006c       0x10 ./src/Can_PBcfg.o
+                0x2000006c                CanHwFilterHRH
+ .data.CanHardwareObject_arr
+                0x2000007c       0x28 ./src/Can_PBcfg.o
+                0x2000007c                CanHardwareObject_arr
+ .data.Can_ConfigType_Handle
+                0x200000a4        0xc ./src/Can_PBcfg.o
+                0x200000a4                Can_ConfigType_Handle
+ .data.impure_data
+                0x200000b0      0x418 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ *(.jcr*)
+ .jcr           0x200004c8        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .jcr           0x200004c8        0x4 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+                0x200004cc                . = ALIGN (0x4)
+                0x200004cc                __data_end__ = .
+
+.tm_clone_table
+                0x200004cc        0x0
+ .tm_clone_table
+                0x200004cc        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .tm_clone_table
+                0x200004cc        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+
+.igot.plt       0x200004cc        0x0
+ .igot.plt      0x200004cc        0x0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+
+.bss            0x200004cc       0xcc
+                0x200004cc                . = ALIGN (0x4)
+                0x200004cc                __BSS_START = .
+                0x200004cc                __bss_start__ = .
+ *(.bss)
+ .bss           0x200004cc       0x1c f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ *(.bss*)
+ .bss.rx_count  0x200004e8        0x1 ./src/Can.o
+ .bss.CAN_MODULE_STATE
+                0x200004e9        0x1 ./src/Can.o
+ *fill*         0x200004ea        0x2 
+ .bss.CAN_CONTROLLERS_STATES
+                0x200004ec        0x3 ./src/Can.o
+ *fill*         0x200004ef        0x1 
+ .bss.TempConfig
+                0x200004f0        0x4 ./src/Can.o
+ .bss.RAMn      0x200004f4        0x4 ./src/Can.o
+ .bss.RXIMRn    0x200004f8        0x4 ./src/Can.o
+ .bss.BufferCounter
+                0x200004fc        0x1 ./src/Can.o
+ .bss.TxBufferCounter
+                0x200004fd        0x1 ./src/Can.o
+ .bss.RxBufferCounter
+                0x200004fe        0x1 ./src/Can.o
+ .bss.HOCounter
+                0x200004ff        0x1 ./src/Can.o
+ .bss.Received_Mailbox
+                0x20000500       0x10 ./src/Can.o
+ .bss.i         0x20000510        0x1 ./src/Can.o
+ *fill*         0x20000511        0x3 
+ .bss.j         0x20000514        0x4 ./src/Can.o
+ .bss.Can_HTH_Array
+                0x20000518       0x3c ./src/Can.o
+ .bss.Can_HRH_Array
+                0x20000554       0x3c ./src/Can.o
+ .bss.CanHwFilterHTH
+                0x20000590        0x8 ./src/Can_PBcfg.o
+                0x20000590                CanHwFilterHTH
+ *(COMMON)
+                0x20000598                . = ALIGN (0x4)
+                0x20000598                __bss_end__ = .
+                0x20000598                __BSS_END = .
+
+.heap           0x20000598      0x400
+                0x20000598                . = ALIGN (0x8)
+                0x20000598                __end__ = .
+                0x20000598                __heap_start__ = .
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                [!provide]                PROVIDE (__end, .)
+                0x20000598                __HeapBase = .
+                0x20000998                . = (. + HEAP_SIZE)
+ *fill*         0x20000598      0x400 
+                0x20000998                __HeapLimit = .
+                0x20000998                __heap_limit = .
+                0x20000998                __heap_end__ = .
+                0x20007000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x20006c00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20007000                PROVIDE (__stack, __StackTop)
+
+.stack          0x20006c00      0x400
+                0x20006c00                . = ALIGN (0x8)
+                0x20006c00                __stack_start__ = .
+                0x20007000                . = (. + STACK_SIZE)
+ *fill*         0x20006c00      0x400 
+                0x20007000                __stack_end__ = .
+                0x200004cc                __START_BSS = __BSS_START
+                0x20000598                __END_BSS = __BSS_END
+                0x20007000                __SP_INIT = __StackTop
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/crt0.o
+ .ARM.attributes
+                0x00000068       0x33 ./Project_Settings/Startup_Code/startup.o
+ .ARM.attributes
+                0x0000009b       0x1b ./Project_Settings/Startup_Code/startup_S32K144.o
+ .ARM.attributes
+                0x000000b6       0x33 ./Project_Settings/Startup_Code/system_S32K144.o
+ .ARM.attributes
+                0x000000e9       0x33 ./src/ADC.o
+ .ARM.attributes
+                0x0000011c       0x33 ./src/Can.o
+ .ARM.attributes
+                0x0000014f       0x33 ./src/Can_PBcfg.o
+ .ARM.attributes
+                0x00000182       0x33 ./src/Det.o
+ .ARM.attributes
+                0x000001b5       0x33 ./src/LPUART.o
+ .ARM.attributes
+                0x000001e8       0x33 ./src/clocks_and_modes.o
+ .ARM.attributes
+                0x0000021b       0x33 ./src/main.o
+ .ARM.attributes
+                0x0000024e       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000027c       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002aa       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002d8       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000306       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000334       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000362       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000390       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000003be       0x2e F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000003ec       0x2e f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+ .ARM.attributes
+                0x0000041a       0x1e f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+
+/DISCARD/
+ *(.FlashConfig)
+OUTPUT(AutosarCanTest.elf elf32-littlearm)
+
+.comment        0x00000000       0xa0
+ .comment       0x00000000       0xa0 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+                                 0xa1 (size before relaxing)
+ .comment       0x000000a0       0xa1 ./Project_Settings/Startup_Code/startup.o
+ .comment       0x000000a0       0xa1 ./Project_Settings/Startup_Code/system_S32K144.o
+ .comment       0x000000a0       0xa1 ./src/ADC.o
+ .comment       0x000000a0       0xa1 ./src/Can.o
+ .comment       0x000000a0       0xa1 ./src/Can_PBcfg.o
+ .comment       0x000000a0       0xa1 ./src/Det.o
+ .comment       0x000000a0       0xa1 ./src/LPUART.o
+ .comment       0x000000a0       0xa1 ./src/clocks_and_modes.o
+ .comment       0x000000a0       0xa1 ./src/main.o
+ .comment       0x000000a0       0xa1 f:/embedded&automotive/s32k144/install/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtend.o
+
+.debug_info     0x00000000     0x2527
+ .debug_info    0x00000000      0x471 ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x00000471       0x26 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_info    0x00000497      0x522 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_info    0x000009b9      0x359 ./src/ADC.o
+ .debug_info    0x00000d12      0x848 ./src/Can.o
+ .debug_info    0x0000155a      0x34b ./src/Can_PBcfg.o
+ .debug_info    0x000018a5       0xdf ./src/Det.o
+ .debug_info    0x00001984      0x240 ./src/LPUART.o
+ .debug_info    0x00001bc4      0x27f ./src/clocks_and_modes.o
+ .debug_info    0x00001e43      0x6e4 ./src/main.o
+
+.debug_abbrev   0x00000000      0x92b
+ .debug_abbrev  0x00000000      0x108 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x00000108       0x14 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_abbrev  0x0000011c      0x125 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_abbrev  0x00000241      0x125 ./src/ADC.o
+ .debug_abbrev  0x00000366      0x17b ./src/Can.o
+ .debug_abbrev  0x000004e1       0x8b ./src/Can_PBcfg.o
+ .debug_abbrev  0x0000056c       0x58 ./src/Det.o
+ .debug_abbrev  0x000005c4      0x12e ./src/LPUART.o
+ .debug_abbrev  0x000006f2       0xc2 ./src/clocks_and_modes.o
+ .debug_abbrev  0x000007b4      0x177 ./src/main.o
+
+.debug_aranges  0x00000000      0x208
+ .debug_aranges
+                0x00000000       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x00000020       0x20 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_aranges
+                0x00000040       0x30 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_aranges
+                0x00000070       0x40 ./src/ADC.o
+ .debug_aranges
+                0x000000b0       0x78 ./src/Can.o
+ .debug_aranges
+                0x00000128       0x18 ./src/Can_PBcfg.o
+ .debug_aranges
+                0x00000140       0x20 ./src/Det.o
+ .debug_aranges
+                0x00000160       0x40 ./src/LPUART.o
+ .debug_aranges
+                0x000001a0       0x30 ./src/clocks_and_modes.o
+ .debug_aranges
+                0x000001d0       0x38 ./src/main.o
+
+.debug_ranges   0x00000000      0x150
+ .debug_ranges  0x00000000       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_ranges  0x00000010       0x20 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_ranges  0x00000030       0x30 ./src/ADC.o
+ .debug_ranges  0x00000060       0x68 ./src/Can.o
+ .debug_ranges  0x000000c8       0x10 ./src/Det.o
+ .debug_ranges  0x000000d8       0x30 ./src/LPUART.o
+ .debug_ranges  0x00000108       0x20 ./src/clocks_and_modes.o
+ .debug_ranges  0x00000128       0x28 ./src/main.o
+
+.debug_macro    0x00000000    0x200c4
+ .debug_macro   0x00000000       0xb5 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000000b5      0x8d4 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000989       0x22 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000009ab       0x87 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000a32       0x51 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000a83       0xef ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000b72       0x6a ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000bdc      0x1df ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000dbb       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000dcb       0x7a ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000e45     0xed32 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000fb77      0xb86 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000106fd       0x22 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0001071f       0x40 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0001075f       0xb5 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00010814       0x19 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001082d     0xed1d ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001f54a       0x28 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001f572       0xb6 ./src/ADC.o
+ .debug_macro   0x0001f628       0x87 ./src/Can.o
+ .debug_macro   0x0001f6af       0x88 ./src/Can.o
+ .debug_macro   0x0001f737       0x70 ./src/Can.o
+ .debug_macro   0x0001f7a7       0x2e ./src/Can.o
+ .debug_macro   0x0001f7d5       0x34 ./src/Can.o
+ .debug_macro   0x0001f809       0x3a ./src/Can.o
+ .debug_macro   0x0001f843      0x10c ./src/Can.o
+ .debug_macro   0x0001f94f       0x3a ./src/Can.o
+ .debug_macro   0x0001f989      0x1ae ./src/Can.o
+ .debug_macro   0x0001fb37       0x40 ./src/Can.o
+ .debug_macro   0x0001fb77       0x7a ./src/Can.o
+ .debug_macro   0x0001fbf1       0x5f ./src/Can_PBcfg.o
+ .debug_macro   0x0001fc50       0x34 ./src/Can_PBcfg.o
+ .debug_macro   0x0001fc84      0x106 ./src/Can_PBcfg.o
+ .debug_macro   0x0001fd8a       0x34 ./src/Can_PBcfg.o
+ .debug_macro   0x0001fdbe       0x38 ./src/Det.o
+ .debug_macro   0x0001fdf6       0x3a ./src/Det.o
+ .debug_macro   0x0001fe30       0xb6 ./src/LPUART.o
+ .debug_macro   0x0001fee6       0xb6 ./src/clocks_and_modes.o
+ .debug_macro   0x0001ff9c      0x128 ./src/main.o
+
+.debug_line     0x00000000     0x1c21
+ .debug_line    0x00000000      0x37f ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x0000037f       0x84 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_line    0x00000403      0x39c ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_line    0x0000079f      0x37d ./src/ADC.o
+ .debug_line    0x00000b1c      0x425 ./src/Can.o
+ .debug_line    0x00000f41       0xde ./src/Can_PBcfg.o
+ .debug_line    0x0000101f       0xae ./src/Det.o
+ .debug_line    0x000010cd      0x38e ./src/LPUART.o
+ .debug_line    0x0000145b      0x394 ./src/clocks_and_modes.o
+ .debug_line    0x000017ef      0x432 ./src/main.o
+
+.debug_str      0x00000000    0x6aa16
+ .debug_str     0x00000000    0x688bd ./Project_Settings/Startup_Code/startup.o
+                              0x68ae5 (size before relaxing)
+ .debug_str     0x000688bd       0x3f ./Project_Settings/Startup_Code/startup_S32K144.o
+                                 0x85 (size before relaxing)
+ .debug_str     0x000688fc      0x1f3 ./Project_Settings/Startup_Code/system_S32K144.o
+                              0x688be (size before relaxing)
+ .debug_str     0x00068aef      0x11e ./src/ADC.o
+                              0x68747 (size before relaxing)
+ .debug_str     0x00068c0d     0x1b16 ./src/Can.o
+                               0x452f (size before relaxing)
+ .debug_str     0x0006a723       0x8f ./src/Can_PBcfg.o
+                               0x36f2 (size before relaxing)
+ .debug_str     0x0006a7b2       0x3f ./src/Det.o
+                               0x2bf9 (size before relaxing)
+ .debug_str     0x0006a7f1       0xdc ./src/LPUART.o
+                              0x6870f (size before relaxing)
+ .debug_str     0x0006a8cd       0x63 ./src/clocks_and_modes.o
+                              0x68749 (size before relaxing)
+ .debug_str     0x0006a930       0xe6 ./src/main.o
+                              0x69e27 (size before relaxing)
+
+.debug_frame    0x00000000      0x6b0
+ .debug_frame   0x00000000       0x38 ./Project_Settings/Startup_Code/startup.o
+ .debug_frame   0x00000038       0x80 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_frame   0x000000b8       0xc8 ./src/ADC.o
+ .debug_frame   0x00000180      0x1c4 ./src/Can.o
+ .debug_frame   0x00000344       0x38 ./src/Det.o
+ .debug_frame   0x0000037c       0xc8 ./src/LPUART.o
+ .debug_frame   0x00000444       0x70 ./src/clocks_and_modes.o
+ .debug_frame   0x000004b4       0x94 ./src/main.o
+ .debug_frame   0x00000548       0x28 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000570       0x2c F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x0000059c       0x20 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x000005bc       0x4c F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000608       0x38 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000640       0x20 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000660       0x30 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000690       0x20 F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m\libnosys.a(_exit.o)

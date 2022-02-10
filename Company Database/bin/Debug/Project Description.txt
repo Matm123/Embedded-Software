@@ -1,0 +1,7 @@
+1) This project is a company database implemented in C language.
+2) The user is able LOAD, SAVE, INSERT, DELETE and MODIFY employees records 
+3) The load option loads the database from the text file "CompanyDatabase.txt" while checking the validity of the information in the database
+4) If an employee has some invalid information , the employee will not be loaded into the database
+5) The validity of the data comes from certain conditions on the email, age, etc..
+6) The job of the employee must be in "CompanyDatabase_jobs.txt" in order for the employee to be added 
+7) The system can SAVE the loaded database in "output.txt" and has multiple options to sort it.

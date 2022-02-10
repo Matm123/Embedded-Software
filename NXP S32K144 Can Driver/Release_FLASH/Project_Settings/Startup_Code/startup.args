@@ -1,0 +1,11 @@
+-DCPU_S32K144HFT0VLLT
+-I"C:/Users/Progr/Desktop/New folder (4)/3/AutosarCanTest_V1.2/include"
+-O3
+-Wall
+-c
+-fmessage-length=0
+-ffunction-sections
+-fdata-sections
+-mcpu=cortex-m4
+-specs=nosys.specs
+--sysroot="F:/Embedded&Automotive/S32K144/Install/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib"

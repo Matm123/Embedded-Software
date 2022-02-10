@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1565798190 source:c:\users\mahmoudayman\desktop\c-programs\companydatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"int.h"
+
+1565704802 c:\users\mahmoudayman\desktop\c-programs\companydatabase\int.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1565704334 c:\users\mahmoudayman\desktop\c-programs\companydatabase\types.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1565798298 source:c:\users\mahmoudayman\desktop\c-programs\companydatabase\prog.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
